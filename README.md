@@ -34,7 +34,7 @@ requirements:
 * Optionally `make` for install script and such
 * [utf8proc](https://juliastrings.github.io/utf8proc)
 * [harfbuzz](harfbuzz.github.io/)
-* [libschrift](https://github.com/tomolt/libschrift) == 0.10.0
+* [libschrift](https://github.com/tomolt/libschrift) == 0.10.0 (commit: 264dec228166fb20669ebe7deb985d123c2d073a)
 
 ```
 # run inside nix-shell if you have nix!
